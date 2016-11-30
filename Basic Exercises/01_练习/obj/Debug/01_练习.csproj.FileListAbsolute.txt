@@ -1,0 +1,6 @@
+C:\Users\QIXING\Desktop\DotNet\01\01_练习\bin\Debug\01_练习.exe.config
+C:\Users\QIXING\Desktop\DotNet\01\01_练习\bin\Debug\01_练习.exe
+C:\Users\QIXING\Desktop\DotNet\01\01_练习\bin\Debug\01_练习.pdb
+C:\Users\QIXING\Desktop\DotNet\01\01_练习\obj\Debug\01_练习.csprojResolveAssemblyReference.cache
+C:\Users\QIXING\Desktop\DotNet\01\01_练习\obj\Debug\01_练习.exe
+C:\Users\QIXING\Desktop\DotNet\01\01_练习\obj\Debug\01_练习.pdb
