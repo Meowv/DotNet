@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Preprocessor", "Preprocessor\Preprocessor.csproj", "{FF919AAD-EF2A-40A6-990A-F7A2B276F8E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pragma Preprocessor", "Pragma Preprocessor\Pragma Preprocessor.csproj", "{317945A1-B9F0-4FF5-A711-4BD4B4A8A572}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF919AAD-EF2A-40A6-990A-F7A2B276F8E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF919AAD-EF2A-40A6-990A-F7A2B276F8E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF919AAD-EF2A-40A6-990A-F7A2B276F8E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF919AAD-EF2A-40A6-990A-F7A2B276F8E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{317945A1-B9F0-4FF5-A711-4BD4B4A8A572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{317945A1-B9F0-4FF5-A711-4BD4B4A8A572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{317945A1-B9F0-4FF5-A711-4BD4B4A8A572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{317945A1-B9F0-4FF5-A711-4BD4B4A8A572}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\DotNet\Preprocessor\Preprocessor\bin\Debug\Preprocessor.exe.config
+C:\Users\Administrator\Desktop\DotNet\Preprocessor\Preprocessor\bin\Debug\Preprocessor.exe
+C:\Users\Administrator\Desktop\DotNet\Preprocessor\Preprocessor\bin\Debug\Preprocessor.pdb
+C:\Users\Administrator\Desktop\DotNet\Preprocessor\Preprocessor\obj\Debug\Preprocessor.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DotNet\Preprocessor\Preprocessor\obj\Debug\Preprocessor.exe
+C:\Users\Administrator\Desktop\DotNet\Preprocessor\Preprocessor\obj\Debug\Preprocessor.pdb

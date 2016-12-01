@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\DotNet\Preprocessor\Pragma Preprocessor\bin\Debug\Pragma Preprocessor.exe.config
+C:\Users\Administrator\Desktop\DotNet\Preprocessor\Pragma Preprocessor\bin\Debug\Pragma Preprocessor.exe
+C:\Users\Administrator\Desktop\DotNet\Preprocessor\Pragma Preprocessor\bin\Debug\Pragma Preprocessor.pdb
+C:\Users\Administrator\Desktop\DotNet\Preprocessor\Pragma Preprocessor\obj\Debug\Pragma Preprocessor.exe
+C:\Users\Administrator\Desktop\DotNet\Preprocessor\Pragma Preprocessor\obj\Debug\Pragma Preprocessor.pdb
