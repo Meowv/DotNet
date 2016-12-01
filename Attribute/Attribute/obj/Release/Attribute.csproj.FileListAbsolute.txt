@@ -1,0 +1,5 @@
+D:\GitHub\DotNet\Attribute\Attribute\bin\Release\Attribute.exe.config
+D:\GitHub\DotNet\Attribute\Attribute\bin\Release\Attribute.exe
+D:\GitHub\DotNet\Attribute\Attribute\bin\Release\Attribute.pdb
+D:\GitHub\DotNet\Attribute\Attribute\obj\Release\Attribute.exe
+D:\GitHub\DotNet\Attribute\Attribute\obj\Release\Attribute.pdb
