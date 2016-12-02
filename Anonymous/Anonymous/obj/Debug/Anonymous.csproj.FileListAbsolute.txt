@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\DotNet\Anonymous\Anonymous\bin\Debug\Anonymous.exe.config
+C:\Users\Administrator\Desktop\DotNet\Anonymous\Anonymous\bin\Debug\Anonymous.exe
+C:\Users\Administrator\Desktop\DotNet\Anonymous\Anonymous\bin\Debug\Anonymous.pdb
+C:\Users\Administrator\Desktop\DotNet\Anonymous\Anonymous\obj\Debug\Anonymous.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DotNet\Anonymous\Anonymous\obj\Debug\Anonymous.exe
+C:\Users\Administrator\Desktop\DotNet\Anonymous\Anonymous\obj\Debug\Anonymous.pdb
