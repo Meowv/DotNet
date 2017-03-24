@@ -1,0 +1,8 @@
+C:\Users\qix\Desktop\DapperDemo\DapperDemo\bin\Debug\DapperDemo.exe.config
+C:\Users\qix\Desktop\DapperDemo\DapperDemo\bin\Debug\DapperDemo.exe
+C:\Users\qix\Desktop\DapperDemo\DapperDemo\bin\Debug\DapperDemo.pdb
+C:\Users\qix\Desktop\DapperDemo\DapperDemo\bin\Debug\Dapper.dll
+C:\Users\qix\Desktop\DapperDemo\DapperDemo\bin\Debug\Dapper.xml
+C:\Users\qix\Desktop\DapperDemo\DapperDemo\obj\Debug\DapperDemo.csprojResolveAssemblyReference.cache
+C:\Users\qix\Desktop\DapperDemo\DapperDemo\obj\Debug\DapperDemo.exe
+C:\Users\qix\Desktop\DapperDemo\DapperDemo\obj\Debug\DapperDemo.pdb
